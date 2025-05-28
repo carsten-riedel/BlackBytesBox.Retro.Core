@@ -82,7 +82,7 @@ namespace BlackBytesBox.Retro.Core.ConTest
             }
 
             Console.WriteLine("Press the X in Windows Terminal—you won't exit!");
-            Thread.Sleep(5000);
+            Thread.Sleep(2000);
         }
     }
 }
