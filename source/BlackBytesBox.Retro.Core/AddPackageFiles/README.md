@@ -1,103 +1,72 @@
-# BlackBytesBox.Routed.GitBackend
+# BlackBytesBox.Retro.Core
 
-This project provides ASP.NET Core middleware to expose bare Git repositories over HTTP using Git's `git-http-backend` mechanism.
-
-## ⚠️ Experimental
-This is an experimental setup and **not recommended for production** environments without proper hardening and security review.
+*A streamlined .NET helper for precise control over the Windows console.*
 
 ---
 
-## 🧰 Prerequisites
+## ⭐ Features
 
-- Git for Windows must be installed. You can download it here:  
-  👉 https://git-scm.com/downloads/win
-
-Ensure that `git-http-backend.exe` is present (typically found under `mingw64/libexec/git-core/`).
+- **Attach or create** a console from any GUI process with one call.
+- **Disable** the ❌ Close button and Quick-Edit to avoid accidental termination or freezes.
+- **UTF-8 everywhere** – print emoji 🎉 and non-Latin scripts seamlessly.
+- **Programmatic font switch** (Lucida Console, Consolas, Cascadia Mono, etc.).
+- **Move & resize** using *client-area* coordinates for pixel-perfect placement.
 
 ---
 
-## 🚀 Usage
+## 📦 Installation
 
-To enable Git HTTP support in your ASP.NET Core app:
+```bash
+# .NET CLI
+dotnet add package BlackBytesBox.Retro.Core
+```
+
+Targets **.NET 6+** and **.NET Framework 4.7.2+**.
+
+---
+
+## 🚀 Quick Start
 
 ```csharp
-app.UseGitBackend(
-    @"C:\gitremote",
-    @"C:\Program Files\Git\mingw64\libexec\git-core\git-http-backend.exe",
-    "/gitrepos",
-    (repoName, username, password) =>
-    {
-        // Custom credential validation logic
-        return string.Equals(username, "gituser", StringComparison.OrdinalIgnoreCase)
-            && string.Equals(password, "secret", StringComparison.Ordinal)
-            && repoName.Equals("MyProject.git", StringComparison.OrdinalIgnoreCase);
-    });
+using BlackBytesBox.Retro.Core;
+
+// 1. Prepare the console
+var c = NativeMethods.ConsoleManager;
+c.EnsureConsole();
+c.DisableCloseButton();
+c.DisableQuickEdit();
+c.SetFont(NativeMethods.ConsoleManager.ConsoleFont.LucidaConsole);
+c.EnableUtf8();
+
+// 2. Align client-area to (0,0)
+var deco = NativeMethods.WindowManager.GetWindowDecorations();
+c.MoveAndResize(x: 0 - deco.BorderWidth, y: 0);
 ```
 
+Run once – you’ll have a UTF-8 console anchored to the primary screen’s top-left.
+
 ---
 
-## 🗂️ Repository Initialization
+## 🧩 API Overview
 
-Repositories must be manually initialized as bare repositories:
-
-```bash
-git -C C:\gitremote init --bare MyProject.git
-git -C C:\gitremote\MyProject.git config http.receivepack true
+```text
+NativeMethods
+├── ConsoleManager
+│   ├── EnsureConsole()
+│   ├── DisableCloseButton()
+│   ├── DisableQuickEdit()
+│   ├── SetFont(ConsoleFont font)
+│   ├── EnableUtf8()
+│   └── MoveAndResize(int x, int y, int? w = null, int? h = null)
+└── WindowManager
+    └── GetWindowDecorations() : WindowDecorations
 ```
 
----
+Full XML docs with nullable annotations ship with the package.
 
-## 📦 Middleware Overview
 
-The `GitBackendMiddleware` class:
-- Invokes `git-http-backend.exe` with CGI-style environment setup.
-- Parses requests under a specific base path (e.g., `/gitrepos`).
-- Performs Basic Authentication via a user-supplied delegate.
-- Streams Git protocol requests and responses.
+## 📜 License
 
-### Requirements:
-- Middleware must be explicitly added in the pipeline.
-- Authentication logic must be customized per your use case.
+MIT © BlackBytesBox 2025
 
----
-
-## 📚 Related
-- Git Smart HTTP Protocol: https://git-scm.com/book/en/v2/Git-on-the-Server-Smart-HTTP
-- ASP.NET Core Middleware Docs: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/
-
----
-
-## 📌 Notes
-
-- Only `.git`-suffixed repo paths will be processed.
-- This middleware uses `git-http-backend`, not a custom Git implementation.
-- Repository path traversal is blocked and validated.
-- This component assumes you understand Git internals and ASP.NET Core middleware.
-- ✅ If you're using **self-signed HTTPS certificates**, Git clients can still work by disabling SSL verification:
-
-```bash
-git -c http.sslVerify=false clone https://localhost:5001/gitrepos/MyProject.git
-```
-
-Or configure the cloned repository to permanently skip SSL validation (for dev/testing only):
-
-```bash
-git -C C:\gitlocal\MyProject config http.sslVerify false
-```
-
----
-
-## ✅ Example Clone URL
-
-```bash
-git clone http://localhost:5000/gitrepos/MyProject.git
-```
-
----
-
-Enjoy hacking Git over HTTP!
-
----
-
-MIT License. Provided as-is with no warranty.
-
+> *Built with ❤️ by BlackBytesBox*
