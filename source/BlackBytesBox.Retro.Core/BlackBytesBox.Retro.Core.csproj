@@ -2,10 +2,65 @@
 
 	<PropertyGroup>
 		<TargetFramework>net2.0</TargetFramework>
+	</PropertyGroup>
+
+	<!-- Packaging and publish configuration -->
+	<PropertyGroup>
+		<isTestProject>false</isTestProject>
+		<isPackable>true</isPackable>
+		<isPublishable>false</isPublishable>
+		<PackAsTool>false</PackAsTool>
+	</PropertyGroup>
+
+	<!-- Versioning details -->
+	<PropertyGroup>
+		<VersionBuild>0</VersionBuild>
+		<VersionMajor>1</VersionMajor>
+		<VersionMinor>0</VersionMinor>
+		<VersionRevision>0</VersionRevision>
+		<AssemblyVersion>$(VersionBuild).$(VersionMajor).$(VersionMinor).$(VersionRevision)</AssemblyVersion>
+		<Version>$(VersionBuild).$(VersionMajor).$(VersionMinor).$(VersionRevision)$(VersionSuffix)</Version>
+	</PropertyGroup>
+
+	<!-- C# language features and debugging configuration -->
+	<PropertyGroup>
 		<ImplicitUsings>disable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<DebugType>embedded</DebugType>
 		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
 
+	<!-- Company and copyright information -->
+	<PropertyGroup>
+		<Copyright>Copyright (c) 2025 Carsten Riedel</Copyright>
+		<Company></Company>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Stage)' == 'pack'">
+		<OutputPackDir Condition="'$(OutputArtifactPackDirectory)' != ''">$(OutputArtifactPackDirectory)</OutputPackDir>
+		<OutputPackDir Condition="'$(OutputArtifactPackDirectory)' == ''">$(MSBuildThisFileDirectory)bin\Output\pack\$(AssemblyName)</OutputPackDir>
+		<PackageOutputPath>$(OutputPackDir)</PackageOutputPath>
+
+		<Authors>Carsten Riedel</Authors>
+		<Owners>Carsten Riedel</Owners>
+		<PackageId>$(AssemblyName)</PackageId>
+		<PackageTags>aspnetcore;middleware;git;git-http-backend;auth;bare-repos;BlackBytesBox</PackageTags>
+		<PackageProjectUrl>https://github.com/carsten-riedel/BlackBytesBox.Routed.GitBackend</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/carsten-riedel/BlackBytesBox.Routed.GitBackend</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<Description>
+			<![CDATA[ASP.NET Core middleware exposing Git repositories via git-http-backend.]]>
+		</Description>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<!-- <PackageLicenseFile>License.txt</PackageLicenseFile> -->
+		<PackageIcon>BlackBytesBoxed128.png</PackageIcon>
+		<PackageReleaseNotes>$([System.IO.File]::ReadAllText("$(MSBuildThisFileDirectory)AddPackageFiles\ReleaseNotes.txt"))</PackageReleaseNotes>
+	</PropertyGroup>
+
+	<!-- In pack add additional files to the package root directory of the nuget. -->
+	<ItemGroup Condition="'$(Stage)' == 'pack'">
+		<None Include="$(MSBuildProjectDirectory)\AddPackageFiles\**\*" Exclude="$(MSBuildProjectDirectory)\AddPackageFiles\ReleaseNotes.txt" Pack="true" PackagePath="" />
+	</ItemGroup>
+	
 </Project>

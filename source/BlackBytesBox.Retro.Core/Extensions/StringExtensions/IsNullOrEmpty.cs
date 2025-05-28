@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace BlackBytesBox.DepreactedNet2.Base.Extensions
+namespace BlackBytesBox.Retro.Core.Extensions
 {
     public static partial class StringExtensions
     {

@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
+﻿using System.Runtime.CompilerServices;
 
-using BlackBytesBox.DepreactedNet2.Base.Interop;
-
-namespace BlackBytesBox.DepreactedNet2.Base
+namespace BlackBytesBox.Retro.Core
 {
     static class Startup
     {

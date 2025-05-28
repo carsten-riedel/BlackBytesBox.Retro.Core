@@ -9,6 +9,12 @@
 		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
 
+	<PropertyGroup>
+		<isTestProject>false</isTestProject>
+		<isPackable>false</isPackable>
+		<isPublishable>false</isPublishable>
+	</PropertyGroup>
+
 	<ItemGroup>
 	  <ProjectReference Include="..\BlackBytesBox.Retro.Core\BlackBytesBox.Retro.Core.csproj" />
 	</ItemGroup>

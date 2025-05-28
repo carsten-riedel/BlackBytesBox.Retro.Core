@@ -6,7 +6,7 @@ using System.Text;
 
 using Microsoft.Win32.SafeHandles;
 
-namespace BlackBytesBox.DepreactedNet2.Base.Interop
+namespace BlackBytesBox.Retro.Core.Interop
 {
     public static partial class NativeMethods
     {

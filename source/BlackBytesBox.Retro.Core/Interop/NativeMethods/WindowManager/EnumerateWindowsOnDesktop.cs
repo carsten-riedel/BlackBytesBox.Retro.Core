@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 
 
-namespace BlackBytesBox.DepreactedNet2.Base.Interop
+namespace BlackBytesBox.Retro.Core.Interop
 {
     public static partial class NativeMethods
     {

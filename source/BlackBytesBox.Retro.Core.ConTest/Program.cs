@@ -3,9 +3,9 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Threading;
 using System;
-using BlackBytesBox.DepreactedNet2.Base.Interop;
+using BlackBytesBox.Retro.Core.Interop;
 using System.Linq;
-using BlackBytesBox.DepreactedNet2.Base.Extensions;
+using BlackBytesBox.Retro.Core.Extensions;
 
 namespace BlackBytesBox.Retro.Core.ConTest
 {
