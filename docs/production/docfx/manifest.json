@@ -1,0 +1,421 @@
+{
+  "source_base_path": "D:/a/BlackBytesBox.Retro.Core/BlackBytesBox.Retro.Core/.config/docfx/build",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.ConsoleHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.ConsoleHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.Interop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.Interop.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Retro.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Retro.Core.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Action-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Action-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Action-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Action-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Action-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Action-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Action-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Action-4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Action.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Action.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Collections.Generic.HashSet-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Collections.Generic.HashSet-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Collections.Generic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Collections.Generic.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.EnumExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.EnumExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Func-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Func-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Func-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Func-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Func-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Func-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Func-4.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Func-4.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Func-5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Func-5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Linq.Enumerable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Linq.Enumerable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Linq.IOrderedEnumerable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Linq.IOrderedEnumerable-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Linq.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Linq.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Predicate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Predicate-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Runtime.CompilerServices.ExtensionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Runtime.CompilerServices.ExtensionAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Runtime.CompilerServices.ModuleInitializerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Runtime.CompilerServices.ModuleInitializerAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.Runtime.CompilerServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.Runtime.CompilerServices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/blackbytes_small.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/blackbytes_small.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

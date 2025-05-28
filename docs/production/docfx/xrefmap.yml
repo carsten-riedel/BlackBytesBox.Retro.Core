@@ -1,0 +1,1201 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BlackBytesBox.Retro.Core
+  name: BlackBytesBox.Retro.Core
+  href: api/BlackBytesBox.Retro.Core.html
+  commentId: N:BlackBytesBox.Retro.Core
+  fullName: BlackBytesBox.Retro.Core
+  nameWithType: BlackBytesBox.Retro.Core
+- uid: BlackBytesBox.Retro.Core.ConsoleHelper
+  name: ConsoleHelper
+  href: api/BlackBytesBox.Retro.Core.ConsoleHelper.html
+  commentId: T:BlackBytesBox.Retro.Core.ConsoleHelper
+  fullName: BlackBytesBox.Retro.Core.ConsoleHelper
+  nameWithType: ConsoleHelper
+- uid: BlackBytesBox.Retro.Core.ConsoleHelper.GetConsoleWindowHandle
+  name: GetConsoleWindowHandle()
+  href: api/BlackBytesBox.Retro.Core.ConsoleHelper.html#BlackBytesBox_Retro_Core_ConsoleHelper_GetConsoleWindowHandle
+  commentId: M:BlackBytesBox.Retro.Core.ConsoleHelper.GetConsoleWindowHandle
+  fullName: BlackBytesBox.Retro.Core.ConsoleHelper.GetConsoleWindowHandle()
+  nameWithType: ConsoleHelper.GetConsoleWindowHandle()
+- uid: BlackBytesBox.Retro.Core.ConsoleHelper.GetConsoleWindowHandle*
+  name: GetConsoleWindowHandle
+  href: api/BlackBytesBox.Retro.Core.ConsoleHelper.html#BlackBytesBox_Retro_Core_ConsoleHelper_GetConsoleWindowHandle_
+  commentId: Overload:BlackBytesBox.Retro.Core.ConsoleHelper.GetConsoleWindowHandle
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.ConsoleHelper.GetConsoleWindowHandle
+  nameWithType: ConsoleHelper.GetConsoleWindowHandle
+- uid: BlackBytesBox.Retro.Core.Extensions
+  name: BlackBytesBox.Retro.Core.Extensions
+  href: api/BlackBytesBox.Retro.Core.Extensions.html
+  commentId: N:BlackBytesBox.Retro.Core.Extensions
+  fullName: BlackBytesBox.Retro.Core.Extensions
+  nameWithType: BlackBytesBox.Retro.Core.Extensions
+- uid: BlackBytesBox.Retro.Core.Extensions.CollectionExtensions
+  name: CollectionExtensions
+  href: api/BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.html
+  commentId: T:BlackBytesBox.Retro.Core.Extensions.CollectionExtensions
+  fullName: BlackBytesBox.Retro.Core.Extensions.CollectionExtensions
+  nameWithType: CollectionExtensions
+- uid: BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.AddRange*
+  name: AddRange
+  href: api/BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.html#BlackBytesBox_Retro_Core_Extensions_CollectionExtensions_AddRange_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.AddRange
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.AddRange
+  nameWithType: CollectionExtensions.AddRange
+- uid: BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.AddRange``1(System.Collections.Generic.ICollection{``0},System.Collections.Generic.IEnumerable{``0})
+  name: AddRange<T>(ICollection<T>, IEnumerable<T>)
+  href: api/BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.html#BlackBytesBox_Retro_Core_Extensions_CollectionExtensions_AddRange__1_System_Collections_Generic_ICollection___0__System_Collections_Generic_IEnumerable___0__
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.AddRange``1(System.Collections.Generic.ICollection{``0},System.Collections.Generic.IEnumerable{``0})
+  name.vb: AddRange(Of T)(ICollection(Of T), IEnumerable(Of T))
+  fullName: BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.AddRange<T>(System.Collections.Generic.ICollection<T>, System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.CollectionExtensions.AddRange(Of T)(System.Collections.Generic.ICollection(Of T), System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: CollectionExtensions.AddRange<T>(ICollection<T>, IEnumerable<T>)
+  nameWithType.vb: CollectionExtensions.AddRange(Of T)(ICollection(Of T), IEnumerable(Of T))
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions
+  name: StringExtensions
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html
+  commentId: T:BlackBytesBox.Retro.Core.Extensions.StringExtensions
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions
+  nameWithType: StringExtensions
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Contains(System.String,System.String,System.StringComparison)
+  name: Contains(string, string, StringComparison)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_Contains_System_String_System_String_System_StringComparison_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.Contains(System.String,System.String,System.StringComparison)
+  name.vb: Contains(String, String, StringComparison)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Contains(string, string, System.StringComparison)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Contains(String, String, System.StringComparison)
+  nameWithType: StringExtensions.Contains(string, string, StringComparison)
+  nameWithType.vb: StringExtensions.Contains(String, String, StringComparison)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Contains*
+  name: Contains
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_Contains_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.Contains
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Contains
+  nameWithType: StringExtensions.Contains
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrEmpty(System.String)
+  name: IsNullOrEmpty(string)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_IsNullOrEmpty_System_String_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrEmpty(System.String)
+  name.vb: IsNullOrEmpty(String)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrEmpty(string)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrEmpty(String)
+  nameWithType: StringExtensions.IsNullOrEmpty(string)
+  nameWithType.vb: StringExtensions.IsNullOrEmpty(String)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrEmpty*
+  name: IsNullOrEmpty
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_IsNullOrEmpty_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrEmpty
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrEmpty
+  nameWithType: StringExtensions.IsNullOrEmpty
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrWhiteSpace(System.String)
+  name: IsNullOrWhiteSpace(string)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_IsNullOrWhiteSpace_System_String_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrWhiteSpace(System.String)
+  name.vb: IsNullOrWhiteSpace(String)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrWhiteSpace(string)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrWhiteSpace(String)
+  nameWithType: StringExtensions.IsNullOrWhiteSpace(string)
+  nameWithType.vb: StringExtensions.IsNullOrWhiteSpace(String)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrWhiteSpace*
+  name: IsNullOrWhiteSpace
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_IsNullOrWhiteSpace_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrWhiteSpace
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.IsNullOrWhiteSpace
+  nameWithType: StringExtensions.IsNullOrWhiteSpace
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.ReplaceLineEndings(System.String,System.String)
+  name: ReplaceLineEndings(string, string)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_ReplaceLineEndings_System_String_System_String_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.ReplaceLineEndings(System.String,System.String)
+  name.vb: ReplaceLineEndings(String, String)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.ReplaceLineEndings(string, string)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.ReplaceLineEndings(String, String)
+  nameWithType: StringExtensions.ReplaceLineEndings(string, string)
+  nameWithType.vb: StringExtensions.ReplaceLineEndings(String, String)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.ReplaceLineEndings*
+  name: ReplaceLineEndings
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_ReplaceLineEndings_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.ReplaceLineEndings
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.ReplaceLineEndings
+  nameWithType: StringExtensions.ReplaceLineEndings
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(System.String,System.String,System.StringSplitOptions)
+  name: Split(string, string, StringSplitOptions)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_Split_System_String_System_String_System_StringSplitOptions_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(System.String,System.String,System.StringSplitOptions)
+  name.vb: Split(String, String, StringSplitOptions)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(string, string, System.StringSplitOptions)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(String, String, System.StringSplitOptions)
+  nameWithType: StringExtensions.Split(string, string, StringSplitOptions)
+  nameWithType.vb: StringExtensions.Split(String, String, StringSplitOptions)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(System.String,System.String[],System.StringSplitOptions)
+  name: Split(string, string[], StringSplitOptions)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_Split_System_String_System_String___System_StringSplitOptions_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(System.String,System.String[],System.StringSplitOptions)
+  name.vb: Split(String, String(), StringSplitOptions)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(string, string[], System.StringSplitOptions)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split(String, String(), System.StringSplitOptions)
+  nameWithType: StringExtensions.Split(string, string[], StringSplitOptions)
+  nameWithType.vb: StringExtensions.Split(String, String(), StringSplitOptions)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split*
+  name: Split
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_Split_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Split
+  nameWithType: StringExtensions.Split
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Trim(System.String,System.String)
+  name: Trim(string, string)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_Trim_System_String_System_String_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.Trim(System.String,System.String)
+  name.vb: Trim(String, String)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Trim(string, string)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Trim(String, String)
+  nameWithType: StringExtensions.Trim(string, string)
+  nameWithType.vb: StringExtensions.Trim(String, String)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Trim*
+  name: Trim
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_Trim_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.Trim
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.Trim
+  nameWithType: StringExtensions.Trim
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimEnd(System.String,System.String)
+  name: TrimEnd(string, string)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_TrimEnd_System_String_System_String_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimEnd(System.String,System.String)
+  name.vb: TrimEnd(String, String)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimEnd(string, string)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimEnd(String, String)
+  nameWithType: StringExtensions.TrimEnd(string, string)
+  nameWithType.vb: StringExtensions.TrimEnd(String, String)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimEnd*
+  name: TrimEnd
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_TrimEnd_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimEnd
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimEnd
+  nameWithType: StringExtensions.TrimEnd
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimStart(System.String,System.String)
+  name: TrimStart(string, string)
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_TrimStart_System_String_System_String_
+  commentId: M:BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimStart(System.String,System.String)
+  name.vb: TrimStart(String, String)
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimStart(string, string)
+  fullName.vb: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimStart(String, String)
+  nameWithType: StringExtensions.TrimStart(string, string)
+  nameWithType.vb: StringExtensions.TrimStart(String, String)
+- uid: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimStart*
+  name: TrimStart
+  href: api/BlackBytesBox.Retro.Core.Extensions.StringExtensions.html#BlackBytesBox_Retro_Core_Extensions_StringExtensions_TrimStart_
+  commentId: Overload:BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimStart
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Extensions.StringExtensions.TrimStart
+  nameWithType: StringExtensions.TrimStart
+- uid: BlackBytesBox.Retro.Core.Interop
+  name: BlackBytesBox.Retro.Core.Interop
+  href: api/BlackBytesBox.Retro.Core.Interop.html
+  commentId: N:BlackBytesBox.Retro.Core.Interop
+  fullName: BlackBytesBox.Retro.Core.Interop
+  nameWithType: BlackBytesBox.Retro.Core.Interop
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods
+  name: NativeMethods
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html
+  commentId: T:BlackBytesBox.Retro.Core.Interop.NativeMethods
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods
+  nameWithType: NativeMethods
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.AllocConsole
+  name: AllocConsole()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_AllocConsole
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.AllocConsole
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.AllocConsole()
+  nameWithType: NativeMethods.AllocConsole()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.AllocConsole*
+  name: AllocConsole
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_AllocConsole_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.AllocConsole
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.AllocConsole
+  nameWithType: NativeMethods.AllocConsole
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent
+  name: NativeMethods.ConsoleCtrlEvent
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.html
+  commentId: T:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent
+  nameWithType: NativeMethods.ConsoleCtrlEvent
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_BREAK
+  name: CTRL_BREAK
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleCtrlEvent_CTRL_BREAK
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_BREAK
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_BREAK
+  nameWithType: NativeMethods.ConsoleCtrlEvent.CTRL_BREAK
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_C
+  name: CTRL_C
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleCtrlEvent_CTRL_C
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_C
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_C
+  nameWithType: NativeMethods.ConsoleCtrlEvent.CTRL_C
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_CLOSE
+  name: CTRL_CLOSE
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleCtrlEvent_CTRL_CLOSE
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_CLOSE
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_CLOSE
+  nameWithType: NativeMethods.ConsoleCtrlEvent.CTRL_CLOSE
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_LOGOFF
+  name: CTRL_LOGOFF
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleCtrlEvent_CTRL_LOGOFF
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_LOGOFF
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_LOGOFF
+  nameWithType: NativeMethods.ConsoleCtrlEvent.CTRL_LOGOFF
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_SHUTDOWN
+  name: CTRL_SHUTDOWN
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleCtrlEvent_CTRL_SHUTDOWN
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_SHUTDOWN
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleCtrlEvent.CTRL_SHUTDOWN
+  nameWithType: NativeMethods.ConsoleCtrlEvent.CTRL_SHUTDOWN
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate
+  name: NativeMethods.ConsoleEventDelegate
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate.html
+  commentId: T:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate
+  nameWithType: NativeMethods.ConsoleEventDelegate
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager
+  name: NativeMethods.ConsoleManager
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html
+  commentId: T:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager
+  nameWithType: NativeMethods.ConsoleManager
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont
+  name: NativeMethods.ConsoleManager.ConsoleFont
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.html
+  commentId: T:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont
+  nameWithType: NativeMethods.ConsoleManager.ConsoleFont
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.Consolas
+  name: Consolas
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_ConsoleFont_Consolas
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.Consolas
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.Consolas
+  nameWithType: NativeMethods.ConsoleManager.ConsoleFont.Consolas
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.LucidaConsole
+  name: LucidaConsole
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_ConsoleFont_LucidaConsole
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.LucidaConsole
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont.LucidaConsole
+  nameWithType: NativeMethods.ConsoleManager.ConsoleFont.LucidaConsole
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableCloseButton
+  name: DisableCloseButton()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_DisableCloseButton
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableCloseButton
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableCloseButton()
+  nameWithType: NativeMethods.ConsoleManager.DisableCloseButton()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableCloseButton*
+  name: DisableCloseButton
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_DisableCloseButton_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableCloseButton
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableCloseButton
+  nameWithType: NativeMethods.ConsoleManager.DisableCloseButton
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableQuickEdit
+  name: DisableQuickEdit()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_DisableQuickEdit
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableQuickEdit
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableQuickEdit()
+  nameWithType: NativeMethods.ConsoleManager.DisableQuickEdit()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableQuickEdit*
+  name: DisableQuickEdit
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_DisableQuickEdit_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableQuickEdit
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.DisableQuickEdit
+  nameWithType: NativeMethods.ConsoleManager.DisableQuickEdit
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableCloseButton
+  name: EnableCloseButton()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnableCloseButton
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableCloseButton
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableCloseButton()
+  nameWithType: NativeMethods.ConsoleManager.EnableCloseButton()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableCloseButton*
+  name: EnableCloseButton
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnableCloseButton_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableCloseButton
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableCloseButton
+  nameWithType: NativeMethods.ConsoleManager.EnableCloseButton
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableQuickEdit
+  name: EnableQuickEdit()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnableQuickEdit
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableQuickEdit
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableQuickEdit()
+  nameWithType: NativeMethods.ConsoleManager.EnableQuickEdit()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableQuickEdit*
+  name: EnableQuickEdit
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnableQuickEdit_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableQuickEdit
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableQuickEdit
+  nameWithType: NativeMethods.ConsoleManager.EnableQuickEdit
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableUtf8
+  name: EnableUtf8()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnableUtf8
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableUtf8
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableUtf8()
+  nameWithType: NativeMethods.ConsoleManager.EnableUtf8()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableUtf8*
+  name: EnableUtf8
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnableUtf8_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableUtf8
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnableUtf8
+  nameWithType: NativeMethods.ConsoleManager.EnableUtf8
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnsureConsole
+  name: EnsureConsole()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnsureConsole
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnsureConsole
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnsureConsole()
+  nameWithType: NativeMethods.ConsoleManager.EnsureConsole()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnsureConsole*
+  name: EnsureConsole
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_EnsureConsole_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnsureConsole
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.EnsureConsole
+  nameWithType: NativeMethods.ConsoleManager.EnsureConsole
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.MoveAndResize(System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32})
+  name: MoveAndResize(int?, int?, int?, int?)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_MoveAndResize_System_Nullable_System_Int32__System_Nullable_System_Int32__System_Nullable_System_Int32__System_Nullable_System_Int32__
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.MoveAndResize(System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32})
+  name.vb: MoveAndResize(Integer?, Integer?, Integer?, Integer?)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.MoveAndResize(int?, int?, int?, int?)
+  fullName.vb: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.MoveAndResize(Integer?, Integer?, Integer?, Integer?)
+  nameWithType: NativeMethods.ConsoleManager.MoveAndResize(int?, int?, int?, int?)
+  nameWithType.vb: NativeMethods.ConsoleManager.MoveAndResize(Integer?, Integer?, Integer?, Integer?)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.MoveAndResize*
+  name: MoveAndResize
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_MoveAndResize_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.MoveAndResize
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.MoveAndResize
+  nameWithType: NativeMethods.ConsoleManager.MoveAndResize
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont(BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont)
+  name: SetFont(ConsoleFont)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_SetFont_BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_ConsoleFont_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont(BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont(BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.ConsoleFont)
+  nameWithType: NativeMethods.ConsoleManager.SetFont(NativeMethods.ConsoleManager.ConsoleFont)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont(System.String)
+  name: SetFont(string)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_SetFont_System_String_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont(System.String)
+  name.vb: SetFont(String)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont(string)
+  fullName.vb: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont(String)
+  nameWithType: NativeMethods.ConsoleManager.SetFont(string)
+  nameWithType.vb: NativeMethods.ConsoleManager.SetFont(String)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont*
+  name: SetFont
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleManager_SetFont_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleManager.SetFont
+  nameWithType: NativeMethods.ConsoleManager.SetFont
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.DrawMenuBar(System.IntPtr)
+  name: DrawMenuBar(IntPtr)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_DrawMenuBar_System_IntPtr_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.DrawMenuBar(System.IntPtr)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.DrawMenuBar(System.IntPtr)
+  nameWithType: NativeMethods.DrawMenuBar(IntPtr)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.DrawMenuBar*
+  name: DrawMenuBar
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_DrawMenuBar_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.DrawMenuBar
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.DrawMenuBar
+  nameWithType: NativeMethods.DrawMenuBar
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetConsoleWindow
+  name: GetConsoleWindow()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_GetConsoleWindow
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.GetConsoleWindow
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetConsoleWindow()
+  nameWithType: NativeMethods.GetConsoleWindow()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetConsoleWindow*
+  name: GetConsoleWindow
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_GetConsoleWindow_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.GetConsoleWindow
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetConsoleWindow
+  nameWithType: NativeMethods.GetConsoleWindow
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetDesktopWindow
+  name: GetDesktopWindow()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_GetDesktopWindow
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.GetDesktopWindow
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetDesktopWindow()
+  nameWithType: NativeMethods.GetDesktopWindow()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetDesktopWindow*
+  name: GetDesktopWindow
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_GetDesktopWindow_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.GetDesktopWindow
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetDesktopWindow
+  nameWithType: NativeMethods.GetDesktopWindow
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetSystemMenu(System.IntPtr,System.Boolean)
+  name: GetSystemMenu(IntPtr, bool)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_GetSystemMenu_System_IntPtr_System_Boolean_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.GetSystemMenu(System.IntPtr,System.Boolean)
+  name.vb: GetSystemMenu(IntPtr, Boolean)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetSystemMenu(System.IntPtr, bool)
+  fullName.vb: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetSystemMenu(System.IntPtr, Boolean)
+  nameWithType: NativeMethods.GetSystemMenu(IntPtr, bool)
+  nameWithType.vb: NativeMethods.GetSystemMenu(IntPtr, Boolean)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetSystemMenu*
+  name: GetSystemMenu
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_GetSystemMenu_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.GetSystemMenu
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.GetSystemMenu
+  nameWithType: NativeMethods.GetSystemMenu
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.MessageBox(System.IntPtr,System.String,System.String,System.UInt32)
+  name: MessageBox(IntPtr, string, string, uint)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_MessageBox_System_IntPtr_System_String_System_String_System_UInt32_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.MessageBox(System.IntPtr,System.String,System.String,System.UInt32)
+  name.vb: MessageBox(IntPtr, String, String, UInteger)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.MessageBox(System.IntPtr, string, string, uint)
+  fullName.vb: BlackBytesBox.Retro.Core.Interop.NativeMethods.MessageBox(System.IntPtr, String, String, UInteger)
+  nameWithType: NativeMethods.MessageBox(IntPtr, string, string, uint)
+  nameWithType.vb: NativeMethods.MessageBox(IntPtr, String, String, UInteger)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.MessageBox*
+  name: MessageBox
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_MessageBox_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.MessageBox
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.MessageBox
+  nameWithType: NativeMethods.MessageBox
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.RemoveMenu(System.IntPtr,System.UInt32,System.UInt32)
+  name: RemoveMenu(IntPtr, uint, uint)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_RemoveMenu_System_IntPtr_System_UInt32_System_UInt32_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.RemoveMenu(System.IntPtr,System.UInt32,System.UInt32)
+  name.vb: RemoveMenu(IntPtr, UInteger, UInteger)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.RemoveMenu(System.IntPtr, uint, uint)
+  fullName.vb: BlackBytesBox.Retro.Core.Interop.NativeMethods.RemoveMenu(System.IntPtr, UInteger, UInteger)
+  nameWithType: NativeMethods.RemoveMenu(IntPtr, uint, uint)
+  nameWithType.vb: NativeMethods.RemoveMenu(IntPtr, UInteger, UInteger)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.RemoveMenu*
+  name: RemoveMenu
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_RemoveMenu_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.RemoveMenu
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.RemoveMenu
+  nameWithType: NativeMethods.RemoveMenu
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.SetConsoleCtrlHandler(BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate,System.Boolean)
+  name: SetConsoleCtrlHandler(ConsoleEventDelegate, bool)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_SetConsoleCtrlHandler_BlackBytesBox_Retro_Core_Interop_NativeMethods_ConsoleEventDelegate_System_Boolean_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.SetConsoleCtrlHandler(BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate,System.Boolean)
+  name.vb: SetConsoleCtrlHandler(ConsoleEventDelegate, Boolean)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.SetConsoleCtrlHandler(BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate, bool)
+  fullName.vb: BlackBytesBox.Retro.Core.Interop.NativeMethods.SetConsoleCtrlHandler(BlackBytesBox.Retro.Core.Interop.NativeMethods.ConsoleEventDelegate, Boolean)
+  nameWithType: NativeMethods.SetConsoleCtrlHandler(NativeMethods.ConsoleEventDelegate, bool)
+  nameWithType.vb: NativeMethods.SetConsoleCtrlHandler(NativeMethods.ConsoleEventDelegate, Boolean)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.SetConsoleCtrlHandler*
+  name: SetConsoleCtrlHandler
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_SetConsoleCtrlHandler_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.SetConsoleCtrlHandler
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.SetConsoleCtrlHandler
+  nameWithType: NativeMethods.SetConsoleCtrlHandler
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations
+  name: NativeMethods.WindowDecorations
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.html
+  commentId: T:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations
+  nameWithType: NativeMethods.WindowDecorations
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.BorderWidth
+  name: BorderWidth
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowDecorations_BorderWidth
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.BorderWidth
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.BorderWidth
+  nameWithType: NativeMethods.WindowDecorations.BorderWidth
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.TitleBarHeight
+  name: TitleBarHeight
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowDecorations_TitleBarHeight
+  commentId: F:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.TitleBarHeight
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowDecorations.TitleBarHeight
+  nameWithType: NativeMethods.WindowDecorations.TitleBarHeight
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager
+  name: NativeMethods.WindowManager
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html
+  commentId: T:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager
+  nameWithType: NativeMethods.WindowManager
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.CloseInputDesktop(System.IntPtr)
+  name: CloseInputDesktop(IntPtr)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_CloseInputDesktop_System_IntPtr_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.CloseInputDesktop(System.IntPtr)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.CloseInputDesktop(System.IntPtr)
+  nameWithType: NativeMethods.WindowManager.CloseInputDesktop(IntPtr)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.CloseInputDesktop*
+  name: CloseInputDesktop
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_CloseInputDesktop_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.CloseInputDesktop
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.CloseInputDesktop
+  nameWithType: NativeMethods.WindowManager.CloseInputDesktop
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.EnumerateWindowsOnDesktop(System.IntPtr)
+  name: EnumerateWindowsOnDesktop(IntPtr)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_EnumerateWindowsOnDesktop_System_IntPtr_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.EnumerateWindowsOnDesktop(System.IntPtr)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.EnumerateWindowsOnDesktop(System.IntPtr)
+  nameWithType: NativeMethods.WindowManager.EnumerateWindowsOnDesktop(IntPtr)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.EnumerateWindowsOnDesktop*
+  name: EnumerateWindowsOnDesktop
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_EnumerateWindowsOnDesktop_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.EnumerateWindowsOnDesktop
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.EnumerateWindowsOnDesktop
+  nameWithType: NativeMethods.WindowManager.EnumerateWindowsOnDesktop
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowDecorations
+  name: GetWindowDecorations()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_GetWindowDecorations
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowDecorations
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowDecorations()
+  nameWithType: NativeMethods.WindowManager.GetWindowDecorations()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowDecorations*
+  name: GetWindowDecorations
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_GetWindowDecorations_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowDecorations
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowDecorations
+  nameWithType: NativeMethods.WindowManager.GetWindowDecorations
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowTitle(System.IntPtr)
+  name: GetWindowTitle(IntPtr)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_GetWindowTitle_System_IntPtr_
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowTitle(System.IntPtr)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowTitle(System.IntPtr)
+  nameWithType: NativeMethods.WindowManager.GetWindowTitle(IntPtr)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowTitle*
+  name: GetWindowTitle
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_GetWindowTitle_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowTitle
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.GetWindowTitle
+  nameWithType: NativeMethods.WindowManager.GetWindowTitle
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.MoveAndResize(System.Nullable{System.IntPtr},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32})
+  name: MoveAndResize(IntPtr?, int?, int?, int?, int?)
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_MoveAndResize_System_Nullable_System_IntPtr__System_Nullable_System_Int32__System_Nullable_System_Int32__System_Nullable_System_Int32__System_Nullable_System_Int32__
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.MoveAndResize(System.Nullable{System.IntPtr},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32})
+  name.vb: MoveAndResize(IntPtr?, Integer?, Integer?, Integer?, Integer?)
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.MoveAndResize(System.IntPtr?, int?, int?, int?, int?)
+  fullName.vb: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.MoveAndResize(System.IntPtr?, Integer?, Integer?, Integer?, Integer?)
+  nameWithType: NativeMethods.WindowManager.MoveAndResize(IntPtr?, int?, int?, int?, int?)
+  nameWithType.vb: NativeMethods.WindowManager.MoveAndResize(IntPtr?, Integer?, Integer?, Integer?, Integer?)
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.MoveAndResize*
+  name: MoveAndResize
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_MoveAndResize_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.MoveAndResize
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.MoveAndResize
+  nameWithType: NativeMethods.WindowManager.MoveAndResize
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.OpenCurrentInputDesktop
+  name: OpenCurrentInputDesktop()
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_OpenCurrentInputDesktop
+  commentId: M:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.OpenCurrentInputDesktop
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.OpenCurrentInputDesktop()
+  nameWithType: NativeMethods.WindowManager.OpenCurrentInputDesktop()
+- uid: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.OpenCurrentInputDesktop*
+  name: OpenCurrentInputDesktop
+  href: api/BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.html#BlackBytesBox_Retro_Core_Interop_NativeMethods_WindowManager_OpenCurrentInputDesktop_
+  commentId: Overload:BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.OpenCurrentInputDesktop
+  isSpec: "True"
+  fullName: BlackBytesBox.Retro.Core.Interop.NativeMethods.WindowManager.OpenCurrentInputDesktop
+  nameWithType: NativeMethods.WindowManager.OpenCurrentInputDesktop
+- uid: System
+  name: System
+  href: api/System.html
+  commentId: N:System
+  fullName: System
+  nameWithType: System
+- uid: System.Action
+  name: Action
+  href: api/System.Action.html
+  commentId: T:System.Action
+  fullName: System.Action
+  nameWithType: Action
+- uid: System.Action`1
+  name: Action<T>
+  href: api/System.Action-1.html
+  commentId: T:System.Action`1
+  name.vb: Action(Of T)
+  fullName: System.Action<T>
+  fullName.vb: System.Action(Of T)
+  nameWithType: Action<T>
+  nameWithType.vb: Action(Of T)
+- uid: System.Action`2
+  name: Action<T1, T2>
+  href: api/System.Action-2.html
+  commentId: T:System.Action`2
+  name.vb: Action(Of T1, T2)
+  fullName: System.Action<T1, T2>
+  fullName.vb: System.Action(Of T1, T2)
+  nameWithType: Action<T1, T2>
+  nameWithType.vb: Action(Of T1, T2)
+- uid: System.Action`3
+  name: Action<T1, T2, T3>
+  href: api/System.Action-3.html
+  commentId: T:System.Action`3
+  name.vb: Action(Of T1, T2, T3)
+  fullName: System.Action<T1, T2, T3>
+  fullName.vb: System.Action(Of T1, T2, T3)
+  nameWithType: Action<T1, T2, T3>
+  nameWithType.vb: Action(Of T1, T2, T3)
+- uid: System.Action`4
+  name: Action<T1, T2, T3, T4>
+  href: api/System.Action-4.html
+  commentId: T:System.Action`4
+  name.vb: Action(Of T1, T2, T3, T4)
+  fullName: System.Action<T1, T2, T3, T4>
+  fullName.vb: System.Action(Of T1, T2, T3, T4)
+  nameWithType: Action<T1, T2, T3, T4>
+  nameWithType.vb: Action(Of T1, T2, T3, T4)
+- uid: System.Collections.Generic
+  name: System.Collections.Generic
+  href: api/System.Collections.Generic.html
+  commentId: N:System.Collections.Generic
+  fullName: System.Collections.Generic
+  nameWithType: System.Collections.Generic
+- uid: System.Collections.Generic.HashSet`1
+  name: HashSet<T>
+  href: api/System.Collections.Generic.HashSet-1.html
+  commentId: T:System.Collections.Generic.HashSet`1
+  name.vb: HashSet(Of T)
+  fullName: System.Collections.Generic.HashSet<T>
+  fullName.vb: System.Collections.Generic.HashSet(Of T)
+  nameWithType: HashSet<T>
+  nameWithType.vb: HashSet(Of T)
+- uid: System.Collections.Generic.HashSet`1.#ctor
+  name: HashSet()
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1__ctor
+  commentId: M:System.Collections.Generic.HashSet`1.#ctor
+  name.vb: New()
+  fullName: System.Collections.Generic.HashSet<T>.HashSet()
+  fullName.vb: System.Collections.Generic.HashSet(Of T).New()
+  nameWithType: HashSet<T>.HashSet()
+  nameWithType.vb: HashSet(Of T).New()
+- uid: System.Collections.Generic.HashSet`1.#ctor(System.Collections.Generic.IEqualityComparer{`0})
+  name: HashSet(IEqualityComparer<T>)
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1__ctor_System_Collections_Generic_IEqualityComparer__0__
+  commentId: M:System.Collections.Generic.HashSet`1.#ctor(System.Collections.Generic.IEqualityComparer{`0})
+  name.vb: New(IEqualityComparer(Of T))
+  fullName: System.Collections.Generic.HashSet<T>.HashSet(System.Collections.Generic.IEqualityComparer<T>)
+  fullName.vb: System.Collections.Generic.HashSet(Of T).New(System.Collections.Generic.IEqualityComparer(Of T))
+  nameWithType: HashSet<T>.HashSet(IEqualityComparer<T>)
+  nameWithType.vb: HashSet(Of T).New(IEqualityComparer(Of T))
+- uid: System.Collections.Generic.HashSet`1.#ctor*
+  name: HashSet
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1__ctor_
+  commentId: Overload:System.Collections.Generic.HashSet`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: System.Collections.Generic.HashSet<T>.HashSet
+  fullName.vb: System.Collections.Generic.HashSet(Of T).New
+  nameWithType: HashSet<T>.HashSet
+  nameWithType.vb: HashSet(Of T).New
+- uid: System.Collections.Generic.HashSet`1.Add(`0)
+  name: Add(T)
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Add__0_
+  commentId: M:System.Collections.Generic.HashSet`1.Add(`0)
+  fullName: System.Collections.Generic.HashSet<T>.Add(T)
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Add(T)
+  nameWithType: HashSet<T>.Add(T)
+  nameWithType.vb: HashSet(Of T).Add(T)
+- uid: System.Collections.Generic.HashSet`1.Add*
+  name: Add
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Add_
+  commentId: Overload:System.Collections.Generic.HashSet`1.Add
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.Add
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Add
+  nameWithType: HashSet<T>.Add
+  nameWithType.vb: HashSet(Of T).Add
+- uid: System.Collections.Generic.HashSet`1.Clear
+  name: Clear()
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Clear
+  commentId: M:System.Collections.Generic.HashSet`1.Clear
+  fullName: System.Collections.Generic.HashSet<T>.Clear()
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Clear()
+  nameWithType: HashSet<T>.Clear()
+  nameWithType.vb: HashSet(Of T).Clear()
+- uid: System.Collections.Generic.HashSet`1.Clear*
+  name: Clear
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Clear_
+  commentId: Overload:System.Collections.Generic.HashSet`1.Clear
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.Clear
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Clear
+  nameWithType: HashSet<T>.Clear
+  nameWithType.vb: HashSet(Of T).Clear
+- uid: System.Collections.Generic.HashSet`1.Contains(`0)
+  name: Contains(T)
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Contains__0_
+  commentId: M:System.Collections.Generic.HashSet`1.Contains(`0)
+  fullName: System.Collections.Generic.HashSet<T>.Contains(T)
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Contains(T)
+  nameWithType: HashSet<T>.Contains(T)
+  nameWithType.vb: HashSet(Of T).Contains(T)
+- uid: System.Collections.Generic.HashSet`1.Contains*
+  name: Contains
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Contains_
+  commentId: Overload:System.Collections.Generic.HashSet`1.Contains
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.Contains
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Contains
+  nameWithType: HashSet<T>.Contains
+  nameWithType.vb: HashSet(Of T).Contains
+- uid: System.Collections.Generic.HashSet`1.CopyTo(`0[],System.Int32)
+  name: CopyTo(T[], int)
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_CopyTo__0___System_Int32_
+  commentId: M:System.Collections.Generic.HashSet`1.CopyTo(`0[],System.Int32)
+  name.vb: CopyTo(T(), Integer)
+  fullName: System.Collections.Generic.HashSet<T>.CopyTo(T[], int)
+  fullName.vb: System.Collections.Generic.HashSet(Of T).CopyTo(T(), Integer)
+  nameWithType: HashSet<T>.CopyTo(T[], int)
+  nameWithType.vb: HashSet(Of T).CopyTo(T(), Integer)
+- uid: System.Collections.Generic.HashSet`1.CopyTo*
+  name: CopyTo
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_CopyTo_
+  commentId: Overload:System.Collections.Generic.HashSet`1.CopyTo
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.CopyTo
+  fullName.vb: System.Collections.Generic.HashSet(Of T).CopyTo
+  nameWithType: HashSet<T>.CopyTo
+  nameWithType.vb: HashSet(Of T).CopyTo
+- uid: System.Collections.Generic.HashSet`1.Count
+  name: Count
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Count
+  commentId: P:System.Collections.Generic.HashSet`1.Count
+  fullName: System.Collections.Generic.HashSet<T>.Count
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Count
+  nameWithType: HashSet<T>.Count
+  nameWithType.vb: HashSet(Of T).Count
+- uid: System.Collections.Generic.HashSet`1.Count*
+  name: Count
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Count_
+  commentId: Overload:System.Collections.Generic.HashSet`1.Count
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.Count
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Count
+  nameWithType: HashSet<T>.Count
+  nameWithType.vb: HashSet(Of T).Count
+- uid: System.Collections.Generic.HashSet`1.GetEnumerator
+  name: GetEnumerator()
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_GetEnumerator
+  commentId: M:System.Collections.Generic.HashSet`1.GetEnumerator
+  fullName: System.Collections.Generic.HashSet<T>.GetEnumerator()
+  fullName.vb: System.Collections.Generic.HashSet(Of T).GetEnumerator()
+  nameWithType: HashSet<T>.GetEnumerator()
+  nameWithType.vb: HashSet(Of T).GetEnumerator()
+- uid: System.Collections.Generic.HashSet`1.GetEnumerator*
+  name: GetEnumerator
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_GetEnumerator_
+  commentId: Overload:System.Collections.Generic.HashSet`1.GetEnumerator
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.GetEnumerator
+  fullName.vb: System.Collections.Generic.HashSet(Of T).GetEnumerator
+  nameWithType: HashSet<T>.GetEnumerator
+  nameWithType.vb: HashSet(Of T).GetEnumerator
+- uid: System.Collections.Generic.HashSet`1.IsReadOnly
+  name: IsReadOnly
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_IsReadOnly
+  commentId: P:System.Collections.Generic.HashSet`1.IsReadOnly
+  fullName: System.Collections.Generic.HashSet<T>.IsReadOnly
+  fullName.vb: System.Collections.Generic.HashSet(Of T).IsReadOnly
+  nameWithType: HashSet<T>.IsReadOnly
+  nameWithType.vb: HashSet(Of T).IsReadOnly
+- uid: System.Collections.Generic.HashSet`1.IsReadOnly*
+  name: IsReadOnly
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_IsReadOnly_
+  commentId: Overload:System.Collections.Generic.HashSet`1.IsReadOnly
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.IsReadOnly
+  fullName.vb: System.Collections.Generic.HashSet(Of T).IsReadOnly
+  nameWithType: HashSet<T>.IsReadOnly
+  nameWithType.vb: HashSet(Of T).IsReadOnly
+- uid: System.Collections.Generic.HashSet`1.Remove(`0)
+  name: Remove(T)
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Remove__0_
+  commentId: M:System.Collections.Generic.HashSet`1.Remove(`0)
+  fullName: System.Collections.Generic.HashSet<T>.Remove(T)
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Remove(T)
+  nameWithType: HashSet<T>.Remove(T)
+  nameWithType.vb: HashSet(Of T).Remove(T)
+- uid: System.Collections.Generic.HashSet`1.Remove*
+  name: Remove
+  href: api/System.Collections.Generic.HashSet-1.html#System_Collections_Generic_HashSet_1_Remove_
+  commentId: Overload:System.Collections.Generic.HashSet`1.Remove
+  isSpec: "True"
+  fullName: System.Collections.Generic.HashSet<T>.Remove
+  fullName.vb: System.Collections.Generic.HashSet(Of T).Remove
+  nameWithType: HashSet<T>.Remove
+  nameWithType.vb: HashSet(Of T).Remove
+- uid: System.EnumExtensions
+  name: EnumExtensions
+  href: api/System.EnumExtensions.html
+  commentId: T:System.EnumExtensions
+  fullName: System.EnumExtensions
+  nameWithType: EnumExtensions
+- uid: System.EnumExtensions.HasFlag(System.Enum,System.Enum)
+  name: HasFlag(Enum, Enum)
+  href: api/System.EnumExtensions.html#System_EnumExtensions_HasFlag_System_Enum_System_Enum_
+  commentId: M:System.EnumExtensions.HasFlag(System.Enum,System.Enum)
+  fullName: System.EnumExtensions.HasFlag(System.Enum, System.Enum)
+  nameWithType: EnumExtensions.HasFlag(Enum, Enum)
+- uid: System.EnumExtensions.HasFlag*
+  name: HasFlag
+  href: api/System.EnumExtensions.html#System_EnumExtensions_HasFlag_
+  commentId: Overload:System.EnumExtensions.HasFlag
+  isSpec: "True"
+  fullName: System.EnumExtensions.HasFlag
+  nameWithType: EnumExtensions.HasFlag
+- uid: System.Func`1
+  name: Func<TResult>
+  href: api/System.Func-1.html
+  commentId: T:System.Func`1
+  name.vb: Func(Of TResult)
+  fullName: System.Func<TResult>
+  fullName.vb: System.Func(Of TResult)
+  nameWithType: Func<TResult>
+  nameWithType.vb: Func(Of TResult)
+- uid: System.Func`2
+  name: Func<T, TResult>
+  href: api/System.Func-2.html
+  commentId: T:System.Func`2
+  name.vb: Func(Of T, TResult)
+  fullName: System.Func<T, TResult>
+  fullName.vb: System.Func(Of T, TResult)
+  nameWithType: Func<T, TResult>
+  nameWithType.vb: Func(Of T, TResult)
+- uid: System.Func`3
+  name: Func<T1, T2, TResult>
+  href: api/System.Func-3.html
+  commentId: T:System.Func`3
+  name.vb: Func(Of T1, T2, TResult)
+  fullName: System.Func<T1, T2, TResult>
+  fullName.vb: System.Func(Of T1, T2, TResult)
+  nameWithType: Func<T1, T2, TResult>
+  nameWithType.vb: Func(Of T1, T2, TResult)
+- uid: System.Func`4
+  name: Func<T1, T2, T3, TResult>
+  href: api/System.Func-4.html
+  commentId: T:System.Func`4
+  name.vb: Func(Of T1, T2, T3, TResult)
+  fullName: System.Func<T1, T2, T3, TResult>
+  fullName.vb: System.Func(Of T1, T2, T3, TResult)
+  nameWithType: Func<T1, T2, T3, TResult>
+  nameWithType.vb: Func(Of T1, T2, T3, TResult)
+- uid: System.Func`5
+  name: Func<T1, T2, T3, T4, TResult>
+  href: api/System.Func-5.html
+  commentId: T:System.Func`5
+  name.vb: Func(Of T1, T2, T3, T4, TResult)
+  fullName: System.Func<T1, T2, T3, T4, TResult>
+  fullName.vb: System.Func(Of T1, T2, T3, T4, TResult)
+  nameWithType: Func<T1, T2, T3, T4, TResult>
+  nameWithType.vb: Func(Of T1, T2, T3, T4, TResult)
+- uid: System.Linq
+  name: System.Linq
+  href: api/System.Linq.html
+  commentId: N:System.Linq
+  fullName: System.Linq
+  nameWithType: System.Linq
+- uid: System.Linq.Enumerable
+  name: Enumerable
+  href: api/System.Linq.Enumerable.html
+  commentId: T:System.Linq.Enumerable
+  fullName: System.Linq.Enumerable
+  nameWithType: Enumerable
+- uid: System.Linq.Enumerable.All*
+  name: All
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_All_
+  commentId: Overload:System.Linq.Enumerable.All
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.All
+  nameWithType: Enumerable.All
+- uid: System.Linq.Enumerable.All``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: All<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_All__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:System.Linq.Enumerable.All``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: All(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+  fullName: System.Linq.Enumerable.All<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)
+  fullName.vb: System.Linq.Enumerable.All(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, Boolean))
+  nameWithType: Enumerable.All<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  nameWithType.vb: Enumerable.All(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+- uid: System.Linq.Enumerable.Any*
+  name: Any
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Any_
+  commentId: Overload:System.Linq.Enumerable.Any
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Any
+  nameWithType: Enumerable.Any
+- uid: System.Linq.Enumerable.Any``1(System.Collections.Generic.IEnumerable{``0})
+  name: Any<TSource>(IEnumerable<TSource>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Any__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:System.Linq.Enumerable.Any``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: Any(Of TSource)(IEnumerable(Of TSource))
+  fullName: System.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>)
+  fullName.vb: System.Linq.Enumerable.Any(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource))
+  nameWithType: Enumerable.Any<TSource>(IEnumerable<TSource>)
+  nameWithType.vb: Enumerable.Any(Of TSource)(IEnumerable(Of TSource))
+- uid: System.Linq.Enumerable.Any``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: Any<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Any__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:System.Linq.Enumerable.Any``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: Any(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+  fullName: System.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)
+  fullName.vb: System.Linq.Enumerable.Any(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, Boolean))
+  nameWithType: Enumerable.Any<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  nameWithType.vb: Enumerable.Any(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+- uid: System.Linq.Enumerable.Concat*
+  name: Concat
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Concat_
+  commentId: Overload:System.Linq.Enumerable.Concat
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Concat
+  nameWithType: Enumerable.Concat
+- uid: System.Linq.Enumerable.Concat``1(System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEnumerable{``0})
+  name: Concat<TSource>(IEnumerable<TSource>, IEnumerable<TSource>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Concat__1_System_Collections_Generic_IEnumerable___0__System_Collections_Generic_IEnumerable___0__
+  commentId: M:System.Linq.Enumerable.Concat``1(System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEnumerable{``0})
+  name.vb: Concat(Of TSource)(IEnumerable(Of TSource), IEnumerable(Of TSource))
+  fullName: System.Linq.Enumerable.Concat<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Collections.Generic.IEnumerable<TSource>)
+  fullName.vb: System.Linq.Enumerable.Concat(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Collections.Generic.IEnumerable(Of TSource))
+  nameWithType: Enumerable.Concat<TSource>(IEnumerable<TSource>, IEnumerable<TSource>)
+  nameWithType.vb: Enumerable.Concat(Of TSource)(IEnumerable(Of TSource), IEnumerable(Of TSource))
+- uid: System.Linq.Enumerable.Count*
+  name: Count
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Count_
+  commentId: Overload:System.Linq.Enumerable.Count
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Count
+  nameWithType: Enumerable.Count
+- uid: System.Linq.Enumerable.Count``1(System.Collections.Generic.IEnumerable{``0})
+  name: Count<TSource>(IEnumerable<TSource>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Count__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:System.Linq.Enumerable.Count``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: Count(Of TSource)(IEnumerable(Of TSource))
+  fullName: System.Linq.Enumerable.Count<TSource>(System.Collections.Generic.IEnumerable<TSource>)
+  fullName.vb: System.Linq.Enumerable.Count(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource))
+  nameWithType: Enumerable.Count<TSource>(IEnumerable<TSource>)
+  nameWithType.vb: Enumerable.Count(Of TSource)(IEnumerable(Of TSource))
+- uid: System.Linq.Enumerable.Count``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: Count<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Count__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:System.Linq.Enumerable.Count``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: Count(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+  fullName: System.Linq.Enumerable.Count<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)
+  fullName.vb: System.Linq.Enumerable.Count(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, Boolean))
+  nameWithType: Enumerable.Count<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  nameWithType.vb: Enumerable.Count(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+- uid: System.Linq.Enumerable.Distinct*
+  name: Distinct
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Distinct_
+  commentId: Overload:System.Linq.Enumerable.Distinct
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Distinct
+  nameWithType: Enumerable.Distinct
+- uid: System.Linq.Enumerable.Distinct``1(System.Collections.Generic.IEnumerable{``0})
+  name: Distinct<TSource>(IEnumerable<TSource>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Distinct__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:System.Linq.Enumerable.Distinct``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: Distinct(Of TSource)(IEnumerable(Of TSource))
+  fullName: System.Linq.Enumerable.Distinct<TSource>(System.Collections.Generic.IEnumerable<TSource>)
+  fullName.vb: System.Linq.Enumerable.Distinct(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource))
+  nameWithType: Enumerable.Distinct<TSource>(IEnumerable<TSource>)
+  nameWithType.vb: Enumerable.Distinct(Of TSource)(IEnumerable(Of TSource))
+- uid: System.Linq.Enumerable.Distinct``1(System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEqualityComparer{``0})
+  name: Distinct<TSource>(IEnumerable<TSource>, IEqualityComparer<TSource>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Distinct__1_System_Collections_Generic_IEnumerable___0__System_Collections_Generic_IEqualityComparer___0__
+  commentId: M:System.Linq.Enumerable.Distinct``1(System.Collections.Generic.IEnumerable{``0},System.Collections.Generic.IEqualityComparer{``0})
+  name.vb: Distinct(Of TSource)(IEnumerable(Of TSource), IEqualityComparer(Of TSource))
+  fullName: System.Linq.Enumerable.Distinct<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Collections.Generic.IEqualityComparer<TSource>)
+  fullName.vb: System.Linq.Enumerable.Distinct(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Collections.Generic.IEqualityComparer(Of TSource))
+  nameWithType: Enumerable.Distinct<TSource>(IEnumerable<TSource>, IEqualityComparer<TSource>)
+  nameWithType.vb: Enumerable.Distinct(Of TSource)(IEnumerable(Of TSource), IEqualityComparer(Of TSource))
+- uid: System.Linq.Enumerable.FirstOrDefault*
+  name: FirstOrDefault
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_FirstOrDefault_
+  commentId: Overload:System.Linq.Enumerable.FirstOrDefault
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.FirstOrDefault
+  nameWithType: Enumerable.FirstOrDefault
+- uid: System.Linq.Enumerable.FirstOrDefault``1(System.Collections.Generic.IEnumerable{``0})
+  name: FirstOrDefault<TSource>(IEnumerable<TSource>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_FirstOrDefault__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:System.Linq.Enumerable.FirstOrDefault``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: FirstOrDefault(Of TSource)(IEnumerable(Of TSource))
+  fullName: System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>)
+  fullName.vb: System.Linq.Enumerable.FirstOrDefault(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource))
+  nameWithType: Enumerable.FirstOrDefault<TSource>(IEnumerable<TSource>)
+  nameWithType.vb: Enumerable.FirstOrDefault(Of TSource)(IEnumerable(Of TSource))
+- uid: System.Linq.Enumerable.FirstOrDefault``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: FirstOrDefault<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_FirstOrDefault__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:System.Linq.Enumerable.FirstOrDefault``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: FirstOrDefault(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+  fullName: System.Linq.Enumerable.FirstOrDefault<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)
+  fullName.vb: System.Linq.Enumerable.FirstOrDefault(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, Boolean))
+  nameWithType: Enumerable.FirstOrDefault<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  nameWithType.vb: Enumerable.FirstOrDefault(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+- uid: System.Linq.Enumerable.OrderBy*
+  name: OrderBy
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_OrderBy_
+  commentId: Overload:System.Linq.Enumerable.OrderBy
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.OrderBy
+  nameWithType: Enumerable.OrderBy
+- uid: System.Linq.Enumerable.OrderBy``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name: OrderBy<TSource, TKey>(IEnumerable<TSource>, Func<TSource, TKey>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_OrderBy__2_System_Collections_Generic_IEnumerable___0__System_Func___0___1__
+  commentId: M:System.Linq.Enumerable.OrderBy``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name.vb: OrderBy(Of TSource, TKey)(IEnumerable(Of TSource), Func(Of TSource, TKey))
+  fullName: System.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>)
+  fullName.vb: System.Linq.Enumerable.OrderBy(Of TSource, TKey)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, TKey))
+  nameWithType: Enumerable.OrderBy<TSource, TKey>(IEnumerable<TSource>, Func<TSource, TKey>)
+  nameWithType.vb: Enumerable.OrderBy(Of TSource, TKey)(IEnumerable(Of TSource), Func(Of TSource, TKey))
+- uid: System.Linq.Enumerable.OrderBy``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1})
+  name: OrderBy<TSource, TKey>(IEnumerable<TSource>, Func<TSource, TKey>, IComparer<TKey>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_OrderBy__2_System_Collections_Generic_IEnumerable___0__System_Func___0___1__System_Collections_Generic_IComparer___1__
+  commentId: M:System.Linq.Enumerable.OrderBy``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1},System.Collections.Generic.IComparer{``1})
+  name.vb: OrderBy(Of TSource, TKey)(IEnumerable(Of TSource), Func(Of TSource, TKey), IComparer(Of TKey))
+  fullName: System.Linq.Enumerable.OrderBy<TSource, TKey>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TKey>, System.Collections.Generic.IComparer<TKey>)
+  fullName.vb: System.Linq.Enumerable.OrderBy(Of TSource, TKey)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, TKey), System.Collections.Generic.IComparer(Of TKey))
+  nameWithType: Enumerable.OrderBy<TSource, TKey>(IEnumerable<TSource>, Func<TSource, TKey>, IComparer<TKey>)
+  nameWithType.vb: Enumerable.OrderBy(Of TSource, TKey)(IEnumerable(Of TSource), Func(Of TSource, TKey), IComparer(Of TKey))
+- uid: System.Linq.Enumerable.Select*
+  name: Select
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Select_
+  commentId: Overload:System.Linq.Enumerable.Select
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Select
+  nameWithType: Enumerable.Select
+- uid: System.Linq.Enumerable.Select``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name: Select<TSource, TResult>(IEnumerable<TSource>, Func<TSource, TResult>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Select__2_System_Collections_Generic_IEnumerable___0__System_Func___0___1__
+  commentId: M:System.Linq.Enumerable.Select``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})
+  name.vb: Select(Of TSource, TResult)(IEnumerable(Of TSource), Func(Of TSource, TResult))
+  fullName: System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)
+  fullName.vb: System.Linq.Enumerable.Select(Of TSource, TResult)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, TResult))
+  nameWithType: Enumerable.Select<TSource, TResult>(IEnumerable<TSource>, Func<TSource, TResult>)
+  nameWithType.vb: Enumerable.Select(Of TSource, TResult)(IEnumerable(Of TSource), Func(Of TSource, TResult))
+- uid: System.Linq.Enumerable.Skip*
+  name: Skip
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Skip_
+  commentId: Overload:System.Linq.Enumerable.Skip
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Skip
+  nameWithType: Enumerable.Skip
+- uid: System.Linq.Enumerable.Skip``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name: Skip<TSource>(IEnumerable<TSource>, int)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Skip__1_System_Collections_Generic_IEnumerable___0__System_Int32_
+  commentId: M:System.Linq.Enumerable.Skip``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name.vb: Skip(Of TSource)(IEnumerable(Of TSource), Integer)
+  fullName: System.Linq.Enumerable.Skip<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)
+  fullName.vb: System.Linq.Enumerable.Skip(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), Integer)
+  nameWithType: Enumerable.Skip<TSource>(IEnumerable<TSource>, int)
+  nameWithType.vb: Enumerable.Skip(Of TSource)(IEnumerable(Of TSource), Integer)
+- uid: System.Linq.Enumerable.Take*
+  name: Take
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Take_
+  commentId: Overload:System.Linq.Enumerable.Take
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Take
+  nameWithType: Enumerable.Take
+- uid: System.Linq.Enumerable.Take``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name: Take<TSource>(IEnumerable<TSource>, int)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Take__1_System_Collections_Generic_IEnumerable___0__System_Int32_
+  commentId: M:System.Linq.Enumerable.Take``1(System.Collections.Generic.IEnumerable{``0},System.Int32)
+  name.vb: Take(Of TSource)(IEnumerable(Of TSource), Integer)
+  fullName: System.Linq.Enumerable.Take<TSource>(System.Collections.Generic.IEnumerable<TSource>, int)
+  fullName.vb: System.Linq.Enumerable.Take(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), Integer)
+  nameWithType: Enumerable.Take<TSource>(IEnumerable<TSource>, int)
+  nameWithType.vb: Enumerable.Take(Of TSource)(IEnumerable(Of TSource), Integer)
+- uid: System.Linq.Enumerable.ToList*
+  name: ToList
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_ToList_
+  commentId: Overload:System.Linq.Enumerable.ToList
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.ToList
+  nameWithType: Enumerable.ToList
+- uid: System.Linq.Enumerable.ToList``1(System.Collections.Generic.IEnumerable{``0})
+  name: ToList<TSource>(IEnumerable<TSource>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_ToList__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:System.Linq.Enumerable.ToList``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: ToList(Of TSource)(IEnumerable(Of TSource))
+  fullName: System.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)
+  fullName.vb: System.Linq.Enumerable.ToList(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource))
+  nameWithType: Enumerable.ToList<TSource>(IEnumerable<TSource>)
+  nameWithType.vb: Enumerable.ToList(Of TSource)(IEnumerable(Of TSource))
+- uid: System.Linq.Enumerable.Where*
+  name: Where
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Where_
+  commentId: Overload:System.Linq.Enumerable.Where
+  isSpec: "True"
+  fullName: System.Linq.Enumerable.Where
+  nameWithType: Enumerable.Where
+- uid: System.Linq.Enumerable.Where``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name: Where<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  href: api/System.Linq.Enumerable.html#System_Linq_Enumerable_Where__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Boolean__
+  commentId: M:System.Linq.Enumerable.Where``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean})
+  name.vb: Where(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+  fullName: System.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)
+  fullName.vb: System.Linq.Enumerable.Where(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, Boolean))
+  nameWithType: Enumerable.Where<TSource>(IEnumerable<TSource>, Func<TSource, bool>)
+  nameWithType.vb: Enumerable.Where(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Boolean))
+- uid: System.Linq.IOrderedEnumerable`1
+  name: IOrderedEnumerable<TElement>
+  href: api/System.Linq.IOrderedEnumerable-1.html
+  commentId: T:System.Linq.IOrderedEnumerable`1
+  name.vb: IOrderedEnumerable(Of TElement)
+  fullName: System.Linq.IOrderedEnumerable<TElement>
+  fullName.vb: System.Linq.IOrderedEnumerable(Of TElement)
+  nameWithType: IOrderedEnumerable<TElement>
+  nameWithType.vb: IOrderedEnumerable(Of TElement)
+- uid: System.Linq.IOrderedEnumerable`1.CreateOrderedEnumerable*
+  name: CreateOrderedEnumerable
+  href: api/System.Linq.IOrderedEnumerable-1.html#System_Linq_IOrderedEnumerable_1_CreateOrderedEnumerable_
+  commentId: Overload:System.Linq.IOrderedEnumerable`1.CreateOrderedEnumerable
+  isSpec: "True"
+  fullName: System.Linq.IOrderedEnumerable<TElement>.CreateOrderedEnumerable
+  fullName.vb: System.Linq.IOrderedEnumerable(Of TElement).CreateOrderedEnumerable
+  nameWithType: IOrderedEnumerable<TElement>.CreateOrderedEnumerable
+  nameWithType.vb: IOrderedEnumerable(Of TElement).CreateOrderedEnumerable
+- uid: System.Linq.IOrderedEnumerable`1.CreateOrderedEnumerable``1(System.Func{`0,``0},System.Collections.Generic.IComparer{``0},System.Boolean)
+  name: CreateOrderedEnumerable<TKey>(Func<TElement, TKey>, IComparer<TKey>, bool)
+  href: api/System.Linq.IOrderedEnumerable-1.html#System_Linq_IOrderedEnumerable_1_CreateOrderedEnumerable__1_System_Func__0___0__System_Collections_Generic_IComparer___0__System_Boolean_
+  commentId: M:System.Linq.IOrderedEnumerable`1.CreateOrderedEnumerable``1(System.Func{`0,``0},System.Collections.Generic.IComparer{``0},System.Boolean)
+  name.vb: CreateOrderedEnumerable(Of TKey)(Func(Of TElement, TKey), IComparer(Of TKey), Boolean)
+  fullName: System.Linq.IOrderedEnumerable<TElement>.CreateOrderedEnumerable<TKey>(System.Func<TElement, TKey>, System.Collections.Generic.IComparer<TKey>, bool)
+  fullName.vb: System.Linq.IOrderedEnumerable(Of TElement).CreateOrderedEnumerable(Of TKey)(System.Func(Of TElement, TKey), System.Collections.Generic.IComparer(Of TKey), Boolean)
+  nameWithType: IOrderedEnumerable<TElement>.CreateOrderedEnumerable<TKey>(Func<TElement, TKey>, IComparer<TKey>, bool)
+  nameWithType.vb: IOrderedEnumerable(Of TElement).CreateOrderedEnumerable(Of TKey)(Func(Of TElement, TKey), IComparer(Of TKey), Boolean)
+- uid: System.Predicate`1
+  name: Predicate<T>
+  href: api/System.Predicate-1.html
+  commentId: T:System.Predicate`1
+  name.vb: Predicate(Of T)
+  fullName: System.Predicate<T>
+  fullName.vb: System.Predicate(Of T)
+  nameWithType: Predicate<T>
+  nameWithType.vb: Predicate(Of T)
+- uid: System.Runtime.CompilerServices
+  name: System.Runtime.CompilerServices
+  href: api/System.Runtime.CompilerServices.html
+  commentId: N:System.Runtime.CompilerServices
+  fullName: System.Runtime.CompilerServices
+  nameWithType: System.Runtime.CompilerServices
+- uid: System.Runtime.CompilerServices.ExtensionAttribute
+  name: ExtensionAttribute
+  href: api/System.Runtime.CompilerServices.ExtensionAttribute.html
+  commentId: T:System.Runtime.CompilerServices.ExtensionAttribute
+  fullName: System.Runtime.CompilerServices.ExtensionAttribute
+  nameWithType: ExtensionAttribute
+- uid: System.Runtime.CompilerServices.ModuleInitializerAttribute
+  name: ModuleInitializerAttribute
+  href: api/System.Runtime.CompilerServices.ModuleInitializerAttribute.html
+  commentId: T:System.Runtime.CompilerServices.ModuleInitializerAttribute
+  fullName: System.Runtime.CompilerServices.ModuleInitializerAttribute
+  nameWithType: ModuleInitializerAttribute
