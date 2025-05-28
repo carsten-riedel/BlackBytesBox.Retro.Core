@@ -44,9 +44,9 @@
 		<Authors>Carsten Riedel</Authors>
 		<Owners>Carsten Riedel</Owners>
 		<PackageId>$(AssemblyName)</PackageId>
-		<PackageTags>aspnetcore;middleware;git;git-http-backend;auth;bare-repos;BlackBytesBox</PackageTags>
-		<PackageProjectUrl>https://github.com/carsten-riedel/BlackBytesBox.Routed.GitBackend</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/carsten-riedel/BlackBytesBox.Routed.GitBackend</RepositoryUrl>
+		<PackageTags>net20;nativemethods;library;BlackBytesBox</PackageTags>
+		<PackageProjectUrl>https://github.com/carsten-riedel/BlackBytesBox.Retro.Core</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/carsten-riedel/BlackBytesBox.Retro.Core</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<Description>
 			<![CDATA[ASP.NET Core middleware exposing Git repositories via git-http-backend.]]>

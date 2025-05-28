@@ -24,7 +24,6 @@ namespace BlackBytesBox.Retro.Core.ConTest
 
             //NativeMethods.ConsoleManager.MoveAndResize(0,0, 1000, 500);
             // 3) Move the console window so its client‐area is flush with the top-left
-
             NativeMethods.ConsoleManager.MoveAndResize(x: 0 - deco.BorderWidth, 0);
 
             Console.WriteLine("Unicode ✔ Ω 漢 😊");
